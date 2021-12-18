@@ -1,0 +1,23 @@
+git init
+git status
+git add .
+git commit -m " pass the msg according to your wwork" 
+git push -u origin master
+
+=================== if not configure ============
+
+git config --global user.name "give your githunname"
+git config --global user.email "give your github email"
+
+
+======= linux commangs============
+
+ls
+ls -a
+mkdir 
+cd
+touch 
+cat
+
+vim 
+
